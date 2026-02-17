@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>सुर्या बालरुग्णालय | Dr Shilpa More</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>सुर्या बालरुग्णालय</h1>
+  <p>Dr Shilpa More (Bhoyate)  
+  MBBS, MD Paediatrics</p>
+</header>
+
+<section class="about">
+  <h2>About Doctor</h2>
+  <p>
+  Dr Shilpa More (Bhoyate) is a qualified Paediatrician (MBBS, MD Paediatrics)  
+  trained at Sassoon Hospital, Pune. She provides expert care for newborns and children.
+  </p>
+</section>
+
+<section class="speciality">
+  <h2>Specialises In</h2>
+  <ul>
+    <li>Newborn Care</li>
+    <li>Paediatric Care</li>
+    <li>PICU (Paediatric Intensive Care)</li>
+    <li>NICU (Neonatal Intensive Care)</li>
+    <li>Vaccination</li>
+    <li>Parents Counselling</li>
+  </ul>
+</section>
+
+<section class="education">
+  <h2>Education</h2>
+  <p>MBBS, MD Paediatrics – Sassoon Hospital, Pune</p>
+</section>
+
+<section class="contact">
+  <h2>Contact Us</h2>
+  <p>📍 Address: _____________________</p>
+  <p>📞 Phone: _____________________</p>
+  <p>🕒 OPD Time: _____________________</p>
+</section>
+
+<footer>
+  <p>© 2026 Surya Balarugnalaya. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
